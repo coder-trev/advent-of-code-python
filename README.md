@@ -1,2 +1,3 @@
-# advent-of-code-python
-AOC Solution in Python
+# AOC Solutions in Python
+
+My repo for saving Advent of Code python scripts.
